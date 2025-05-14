@@ -41,7 +41,7 @@
 | Week | Topics | Goals | Resources |
 |------|--------|-------|-----------|
 | 9 | Python for Data | NumPy, Pandas, DataFrames | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), [Kaggle Python](https://www.kaggle.com/learn/python) |
-| 10 | Node.js,APIs,MYSQL(Database)
+| 10 | Backend |  Node.js, APIs, MYSQL(Database)
 | 11 | Matplotlib & Seaborn | Visualization of Data | [Kaggle Visualization Course](https://www.kaggle.com/learn/data-visualization) | Machine Learning Basics | Supervised Learning, Train/Test, sklearn | [ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course), [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning) |
 | 12 | Mini Project Week | Predictive Model / Portfolio Site / Quiz Game | Build using learned skills, deploy on GitHub or Netlify |
 
