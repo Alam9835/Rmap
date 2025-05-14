@@ -1,9 +1,4 @@
-# 🚀 3-Month Complete Tech Foundations Roadmap
-
-👩‍💻 Ideal For: Engineering Students  
-📆 Duration: 12 Weeks  
-🌐 Covers: Programming + DSA + Web Development + AI/ML Fundamentals  
-💰 Cost: 100% Free Resources  
+# 🚀 Complete  Roadmap
 
 ---
 
@@ -13,13 +8,13 @@
 |-------|------------|
 | Month 1 | Programming + DSA till Stacks & Queues |
 | Month 2 | Web Development Basics |
-| Month 3 | AI/ML Fundamentals |
+| Month 3 | Backend + AL/ML|
 
 ---
 
 ## 📅 Weekly Detailed Plan
 
-### Month 1: Programming + Basic DSA
+###Programming +  DSA
 
 | Week | Topics | Goals | Resources |
 |------|--------|-------|-----------|
@@ -30,7 +25,7 @@
 
 ---
 
-### Month 2: Web Development Fundamentals
+###  Development Fundamentals
 
 | Week | Topics | Goals | Resources |
 |------|--------|-------|-----------|
@@ -41,13 +36,13 @@
 
 ---
 
-### Month 3: AI & ML Fundamentals
+###  AI & ML Fundamentals
 
 | Week | Topics | Goals | Resources |
 |------|--------|-------|-----------|
 | 9 | Python for Data | NumPy, Pandas, DataFrames | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), [Kaggle Python](https://www.kaggle.com/learn/python) |
-| 10 | Matplotlib & Seaborn | Visualization of Data | [Kaggle Visualization Course](https://www.kaggle.com/learn/data-visualization) |
-| 11 | Machine Learning Basics | Supervised Learning, Train/Test, sklearn | [ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course), [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning) |
+| 10 | Node.js,APIs,MYSQL(Database)
+| 11 | Matplotlib & Seaborn | Visualization of Data | [Kaggle Visualization Course](https://www.kaggle.com/learn/data-visualization) | Machine Learning Basics | Supervised Learning, Train/Test, sklearn | [ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course), [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning) |
 | 12 | Mini Project Week | Predictive Model / Portfolio Site / Quiz Game | Build using learned skills, deploy on GitHub or Netlify |
 
 ---
