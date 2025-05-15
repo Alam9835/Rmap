@@ -62,13 +62,4 @@
 
 - ⏰ Minimum Commitment: 2-3 hours per day
 - ✅ Practice DSA weekly on [LeetCode](https://leetcode.com/) or [HackerRank](https://www.hackerrank.com/)
-- 💬 Join Discord/Reddit Study Communities for discussions
-- 📄 Keep notes or a Notion page to track what you learn
 
----
-
-🎯 By the end of 12 weeks, you'll be confident in:
-- Writing clean code
-- Solving beginner-intermediate DSA problems
-- Creating responsive websites
-- Understanding core AI/ML workflows
